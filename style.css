@@ -23,6 +23,7 @@ h1 {
     font-weight: bolder;
     white-space: nowrap;
     padding: 10px;
+    font-variant: small-caps;
 }
 
 header p {
